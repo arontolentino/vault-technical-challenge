@@ -1,0 +1,23 @@
+{
+  "name": "vault-technical-challenge",
+  "version": "1.0.0",
+  "description": "vault-technical-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arontolentino/vault-technical-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arontolentino/vault-technical-challenge/issues"
+  },
+  "homepage": "https://github.com/arontolentino/vault-technical-challenge#readme",
+  "dependencies": {
+    "currency.js": "^2.0.4",
+    "moment": "^2.29.1"
+  }
+}
