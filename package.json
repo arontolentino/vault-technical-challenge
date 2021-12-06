@@ -2,9 +2,9 @@
   "name": "vault-technical-challenge",
   "version": "1.0.0",
   "description": "vault-technical-challenge",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./src/index.js"
   },
   "repository": {
     "type": "git",
