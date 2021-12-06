@@ -27,8 +27,18 @@ You're welcome to write your program in a general-purpose language of your choos
 
 ## How To Test
 
-### Method 1:
-
-### Method 2: Local Machine
-
 _Please make sure that you have [Node.js](https://nodejs.org) installed_
+
+1. Clone repository
+`git clone https://github.com/arontolentino/vault-technical-challenge`
+
+2. Enter directory
+`cd vault-technical-challenge`
+
+3. Install respository dependencies
+`npm install`
+
+4. Run script
+`npm start`
+
+5. Check `output.txt` for results
